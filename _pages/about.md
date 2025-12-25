@@ -30,4 +30,4 @@ GPA: 3.8 / 4.0
 ## Professional Experience
 I have worked as an Algorithm Engineer at HuleTech (Prof. Yijie Peng's Group, Peking University) and as a Backend Developer at Tencent LIGHTSPEED STUDIOS, where I developed AI-powered systems and tools for real-world applications.
 
-For more details, please see my [CV](/cv/) or explore my [research projects](/portfolio/).
+For more details, please see my [CV](/cv/) or explore my [projects](/portfolio/).

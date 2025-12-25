@@ -24,16 +24,14 @@ Education
 
 Research Experience
 ======
-* **LLM-Enhanced Cross-Domain Graph Neural Networks** (Jan 2025 – Present)
-  * Independent Research
-  * Studied cross-domain generalization challenges in heterogeneous GNNs, identifying semantic misalignment as a key bottleneck
-  * Proposed a low-cost zero-shot GNN generalization framework leveraging LLMs to provide semantic priors for node and edge alignment
-  * Conducted extensive literature review covering LLM-TTT, GraphCL, GraphPrompt, and zero-shot graph learning
-  * Designed a conceptual framework combining LLM-based textual descriptions with GNN embeddings to enable label-free domain transfer
-  * Preliminary experiments demonstrate improved feature transfer performance in unlabeled target domains
+* **LLM-Enhanced Cross-Domain Graph Neural Networks** (Jan 2025 – Oct 2025)
+  * Conducted an in-depth literature review on cross-domain generalization in heterogeneous Graph Neural Networks, with a focus on semantic misalignment issues across domains.
+  * Systematically studied representative methods including LLM-based test-time training (LLM-TTT), GraphCL, GraphPrompt, and zero-shot graph learning, summarizing their core ideas, assumptions, and limitations.
+  * Analyzed how Large Language Models can be incorporated into graph learning pipelines as auxiliary semantic information, and examined their potential role in alleviating cross-domain representation gaps.
+  * Participated in discussions and conceptual analysis of frameworks that combine textual descriptions with graph embeddings to support label-free or weakly supervised domain transfer.
+  * Assisted in preliminary experimental exploration and result analysis to evaluate feature transfer behavior in unlabeled target domains.
 
 * **Drug Trafficker Social Network Graph Construction & Analysis**
-  * Research Project
   * Built a large-scale heterogeneous social network dataset (7,000+ users, 45,000+ posts, 500+ keywords)
   * Developed Playwright-based crawlers to collect multi-layer social data beyond Twitter API limitations
   * Designed an LLM-assisted semi-automatic labeling workflow to reduce annotation cost
@@ -70,14 +68,4 @@ Skills
 * **Tools & Systems**: Docker, Git, RESTful APIs
 * **Technical Writing**: LaTeX
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
 
-Portfolio
-======
-  <ul>{% for post in site.portfolio reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
