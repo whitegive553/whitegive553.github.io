@@ -13,7 +13,7 @@ redirect_from:
 
 Education
 ======
-* **Bachelor of Science**, Computer Science + Statistics (Double Major)
+* **Bachelor of Science**, Computer Science Major
   * University of Toronto, Sep 2023 – Jun 2026 (Expected)
   * GPA: 3.8 / 4.0
   * **Selected Coursework**: Neural Networks and Deep Learning, Algorithm Design & Analysis, Time Series Analysis, Numerical Methods, Computer Organization
